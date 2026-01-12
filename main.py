@@ -4,4 +4,4 @@ def fibonacci(n):
     while a < n:
         print(a, end=',')
         a, b = b, a+b
-print(fibonacci(50))
+print(fibonacci(10))
